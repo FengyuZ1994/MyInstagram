@@ -11,6 +11,7 @@ Frontend : HTML, CSS, JQuery, JavaScript, Bootstrap, and AJAX.
 Backend: Django views/templates skeleton, SQLite/MySQL(migrated) as datebase. 
 Version Control and Deployment: Git, and Heroku
 
+Full History of commits: https://github.com/FengyuZ1994/DjangoDev
 Demo link: https://fierce-bayou-08771.herokuapp.com/
 
 1. scrollable dynamic home page showing image posts from subscribed users. 
