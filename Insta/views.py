@@ -62,8 +62,8 @@ class PostDeleteView(DeleteView):
 
 class SignUp(CreateView):
     form_class = CustomUserCreationForm
-    success_url = reverse_lazy('login')
     template_name = 'signup.html'
+    success_url = reverse_lazy('login')
 
 class UserProfile(LoginRequiredMixin, DetailView):
     model = InstaUser
