@@ -11,6 +11,8 @@ Frontend : HTML, CSS, JQuery, JavaScript, Bootstrap, and AJAX.
 Backend: Django views/templates skeleton, SQLite/MySQL(migrated) as datebase. 
 Version Control and Deployment: Git, and Heroku
 
+Demo link: https://fierce-bayou-08771.herokuapp.com/
+
 1. scrollable dynamic home page showing image posts from subscribed users. 
 ![scrollable dynamic home page showing image posts from subscribed users](https://raw.githubusercontent.com/FengyuZ1994/MyInstagram/master/demo1.png)
 
